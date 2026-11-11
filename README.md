@@ -2860,13 +2860,13 @@ window.rectors = [
     medium: "English"
   },
   {
-    id: "UDAYBHAI"
-    phone: ""
-    name: "Udaybhai"
-    password: "Kanani046"
-    std: ["9"]
-    medium: "Gujarati"
- }
+  id: "UDAYBHAI",
+  Phone: "9408084096",
+  name: "Udaybhai",
+  password: "Kanani",
+  std: ["9"],
+  medium: "Gujarati"
+  },
 ];
 </script>
 </body>
